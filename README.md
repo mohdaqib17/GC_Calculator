@@ -2,7 +2,7 @@
 This tool allows you to calculate the GC content of nucleotide sequences stored in FASTA files. 
 
 # Overview
-The FASTA File GC Content Calculator is a Python-based tool that calculates the GC content of nucleotide sequences stored in FASTA files. GC content, the percentage of guanine (G) and cytosine (C) bases in a DNA sequence, is an important metric in bioinformatics for various analyses, including primer design, sequence comparison, and molecular biology experiments.
+The GC Content Calculator is a Python-based GUI tool that calculates the GC content of nucleotide sequences stored in FASTA files. GC content, the percentage of guanine (G) and cytosine (C) bases in a DNA sequence, is an important metric in bioinformatics for various analyses, including primer design, sequence comparison, and molecular biology experiments.
 
 # Features
 File Selection: Select a FASTA file containing nucleotide sequences.
