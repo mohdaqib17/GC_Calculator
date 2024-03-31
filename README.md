@@ -6,9 +6,13 @@ The GC Content Calculator is a Python-based GUI tool that calculates the GC cont
 
 # Features
 **Easy File Selection**: Select a FASTA file containing nucleotide sequences.
+
 **GC Content Calculation**: Compute the GC content of each sequence in the FASTA file.
+
 **Percentage Display**: Present the GC content as a percentage for easy interpretation.
+
 **User-Friendly Interface**: Simple and intuitive graphical user interface (GUI) implemented using Tkinter.
+
 
 # How to Use
 1) **Clone the Repository**: Clone this repository to your local machine using Git:
@@ -23,6 +27,9 @@ The GC Content Calculator is a Python-based GUI tool that calculates the GC cont
 
 # Notes
 Ensure your FASTA file follows the standard format with sequence headers starting with ">".
+
 Non-standard characters in the sequences will be ignored during computation.
+
 For large files or files with multiple sequences, the computation may take longer.
+
 This tool is provided for educational and research purposes only and may not be suitable for high-throughput analysis.
